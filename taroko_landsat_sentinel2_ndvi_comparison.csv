@@ -1,0 +1,11 @@
+﻿year,landsat_ndvi,landsat_image_count,landsat_partial_year,sentinel2_ndvi,sentinel2_image_count,sentinel2_partial_year,used_for_regression,note
+2017,0.5415837258183623,34,False,,0,True,False,Sentinel-2 無可用影像
+2018,0.5506363032762239,37,False,0.4974012806757215,5,False,False,Sentinel-2 影像較少，不納入回歸
+2019,0.5550728791258868,35,False,0.500950937862204,101,False,True,納入回歸分析
+2020,0.5704980621394393,40,False,0.5061742522356306,110,False,True,納入回歸分析
+2021,0.5611395112324357,43,False,0.492608821079019,114,False,True,納入回歸分析
+2022,0.5897888824315474,54,False,0.5247201236090752,83,False,True,納入回歸分析
+2023,0.5675358406727868,59,False,0.5122463986047877,83,False,True,納入回歸分析
+2024,0.560316606122547,38,False,0.49929748451026784,98,False,True,納入回歸分析
+2025,0.5418687448556965,33,False,0.5088400594456872,99,False,True,納入回歸分析
+2026,0.5815913672724098,13,True,0.4925209640481065,43,True,False,部分年度資料，不納入回歸
